@@ -1,0 +1,11 @@
+img{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.card{
+
+    width: 400px;
+    background-color: blanchedalmond;
+}
